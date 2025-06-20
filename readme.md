@@ -46,7 +46,7 @@ A lightweight Chrome extension that helps users **track and manage** consent the
 
 | Website View | Extension View |
 |--------------|----------------|
-| ![Zudio Cookie](screenshots/demo1.png) | ![Consent Popup](screenshots/demo2.png) |
+| ![Zudio Cookie](screenshots/demo1.png) | 
 
 ---
 
